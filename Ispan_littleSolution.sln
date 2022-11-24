@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISpan", "ISpan\ISpan.csproj", "{441978A8-0C7E-4002-B195-D40766213F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441978A8-0C7E-4002-B195-D40766213F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441978A8-0C7E-4002-B195-D40766213F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441978A8-0C7E-4002-B195-D40766213F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441978A8-0C7E-4002-B195-D40766213F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {261EE750-BADE-43E5-B8DE-DA05949E9977}
+	EndGlobalSection
+EndGlobal
